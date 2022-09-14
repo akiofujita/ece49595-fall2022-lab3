@@ -4,3 +4,8 @@
 
 (b) The scrum master is responisble for managing all scrum-related tasks. These include JIRA tooling and facilitating sprints and meetings with
     the development team.
+
+(c) The three types of meetings are the Sprint Planning Meeting, Daily Scrum or Standup Meeting, and the Sprint retrospective meeting.
+    For the spring planning, the team determines what tasks need to be completed in the upcoming sprint. They also determine story points and assign stories to the team.
+    For the daily scrum meeting, this is a short meeting that occurs every day during the sprint. The team discusses the tasks that were finished during the sprint and any changes that need to be made.
+    For the sprint retrospective meeting, this occurs at the end of the sprint. The team moves unfinished work to the backlog as well as discuss the completed work.
