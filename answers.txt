@@ -9,3 +9,7 @@
     For the spring planning, the team determines what tasks need to be completed in the upcoming sprint. They also determine story points and assign stories to the team.
     For the daily scrum meeting, this is a short meeting that occurs every day during the sprint. The team discusses the tasks that were finished during the sprint and any changes that need to be made.
     For the sprint retrospective meeting, this occurs at the end of the sprint. The team moves unfinished work to the backlog as well as discuss the completed work.
+
+(d) An epic is a group of work which takes the form of a number of smaller stories. A story is a requirement or need that can be expressed with a short description.
+    A bug is an issue that causes error or possibly disrupt the functioning of the software project. A task is any work that needs to be finished, whether that be 
+    a new feature or improvement on existing code.
